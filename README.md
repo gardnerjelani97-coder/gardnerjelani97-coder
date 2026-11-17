@@ -16,11 +16,20 @@ I'm building my knowledge through hands-on projects, practical labs, and continu
 
 ## 🔐 Cybersecurity Projects
 
-| Project | Description |
-|---|---|
-| Password Strength Checker | Python tool to evaluate password strength |
-| TCP Port Scanner | Basic Python scanner for authorised security testing |
-| Log File Analyzer | Python tool to analyse authentication logs and detect failed login attempts |
+### 🔑 1. Password Strength Checker
+A Python project that evaluates password strength by checking characteristics such as length, uppercase letters, numbers, and special characters.
+
+🔗 [View Repository](https://github.com/gardnerjelani97-coder/Password-strength-checker)
+
+### 📊 2. Log File Analyser
+A Python project that analyses authentication logs, counts failed login attempts, and helps identify potentially suspicious IP addresses.
+
+🔗 [View Repository](https://github.com/gardnerjelani97-coder/log-file-analyser)
+
+### 3. TCP port Scanner
+Python tool to analyse authentication logs and detect failed login attempts
+
+🔗 [View Repository](https://github.com/gardnerjelani97-coder/python-port-scanner)
 
 ## ☁️ Current Learning Goals
 
